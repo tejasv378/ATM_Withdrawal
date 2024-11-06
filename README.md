@@ -1,1 +1,1 @@
-Run the program using any Python IDE
+Run program using any Python IDE
